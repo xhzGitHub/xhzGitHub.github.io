@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{339:function(n,e,t){"use strict";t.r(e);var i={methods:{handleClick:function(){window.location.href="/vue"}}},l=t(0),c=Object(l.a)(i,(function(){var n=this.$createElement;return(this._self._c||n)("div",{on:{click:this.handleClick}},[this._v("肖鸿泽的博客")])}),[],!1,null,null,null);e.default=c.exports}}]);
